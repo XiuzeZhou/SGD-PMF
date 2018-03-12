@@ -21,5 +21,3 @@ How to make it work:
 I did not try to optimize this code, but please e-mail me if you find bugs.
 
 I am also very glad to communicate with you by e-mail about your problems.
-
-My e-mail: zhouxiuze@foxmail.com
