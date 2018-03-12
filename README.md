@@ -2,8 +2,8 @@
 The SGD for Probabilistic Matrix Factorization(PMF) in Python
 
 % Created by Xiuze Zhou 
-%
-% E-mail: zhouxiuze@foxmail.com
+
+E-mail: zhouxiuze@foxmail.com
 %
 % Permission is granted for anyone to copy, use, modify, or 
 % distribute this program and accompanying programs and documents 
