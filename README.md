@@ -12,8 +12,8 @@ How to make it work:
 
    1. Create a separate directory and download all these files into the same directory
    2. Download the following 2 files: 
-			 1) SGD_PMF.py: Main file for training PMF
-          2) u.data: MovieLens 100k data set
+       1) SGD_PMF.py: Main file for training PMF
+       2) u.data: MovieLens 100k data set
    3. Run SGD_PMF.py
 
 I did not try to optimize this code, but please e-mail me if you find bugs.
