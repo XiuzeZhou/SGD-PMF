@@ -1,7 +1,7 @@
 # SGD-PMF
 The SGD for Probabilistic Matrix Factorization(PMF) in Python
-Detailed explanation and derivation process please see:https://zhuanlan.zhihu.com/p/34422451
 
+Detailed explanation and derivation process please see:https://zhuanlan.zhihu.com/p/34422451
 
 Created by Xiuze Zhou 
 
