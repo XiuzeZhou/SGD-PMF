@@ -39,7 +39,7 @@ def SGD(train,test,N,M,eta,K,lambda_1,lambda_2,Step):
         loss.append(los)
         rms=RMSE(U,V,test)
         rmse.append(rms)
-        if loss<L:
+        if los<L:
             break
         if ste%10==0:
             print ste/10
